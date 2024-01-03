@@ -1,5 +1,8 @@
-# Image t0 Text Convertion
+# Image-to-Text Conversion
 
+<p>
+<img src = "https://www.softseotools.com/uploads/image-to-text.png"/>
+</p>
 
 ## Project Overview
 
